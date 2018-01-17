@@ -1,4 +1,5 @@
 # xpt
+![coverage](https://svg-badge.appspot.com/badge/coverage/71.4%25?color=3a3)
 
 A go library to read SAS TRANSPORT (XPORT) FORMAT files.
 
@@ -8,8 +9,6 @@ mostly developed as a learning tool.
 Warning: This library is not completely functional. The ibmToIEEE()
 parser requires work, amongst other things. Please use at your
 own risk and report any bugs as github issues.
-
-Test coverage (according to "go test --cover"): 71.4%
 
 #### Reader Usage:
   ```go
